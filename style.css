@@ -13,7 +13,7 @@ body {
     display: grid;
     grid-template-columns: 200px 1fr 1fr;
     grid-template-rows: 120px 380px auto 200px;
-    min-height: 100vh;
+    min-height: 150vh;
 }
 
 
@@ -188,3 +188,4 @@ body {
         font-size: 32px;
     }
 }
+
